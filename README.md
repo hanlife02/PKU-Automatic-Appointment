@@ -1,4 +1,4 @@
-# PKU_Automatic_Appointment
+# PKU-Automatic-Appointment
 
 A script for automatic appointments for Peking University students.<br><br>
 一个供北大学生使用的自动预约脚本
