@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> - 本项目不再维护，如有问题请自行解决
+> - 本项目仅供个人学习使用，不保证稳定性，且不提供任何技术支持。
+
 # PKU-Automatic-Appointment
 
 A script for automatic appointments for Peking University students.<br><br>
