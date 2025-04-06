@@ -59,7 +59,7 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13L
 ① **克隆此仓库到本地**<br>
 
 [仓库地址](https://github.com/hanlife02/PKU_Automatic_Appointment)<br><br>
-![示例图片1](https://hanlife02.com.cn/api/v2/objects/file/gt9l6pjzwwu7a5as5a.png)<br><br>
+![示例图片1](https://hanlife02.com/api/v2/objects/file/gt9l6pjzwwu7a5as5a.png)<br><br>
 
 ② **绑定手机令牌**<br><br>
 按照 [此处](https://iaaa.pku.edu.cn/iaaa/resources/help/otpHelp.html) 的教程，使用 FreeOTP 绑定手机令牌，并获得二维码的URL<br><br>
@@ -73,7 +73,7 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13L
 ④ **运行 `main.py`**<br><br>
 任意时间运行均可，到0点会自动预约(需正确填写.env）<br><br>
 见到下图即运行成功<br><br>
-![](https://hanlife02.com.cn/api/v2/objects/file/2dhy73n26f3nd2ct6k.png)
+![](https://hanlife02.com/api/v2/objects/file/2dhy73n26f3nd2ct6k.png)
 <br><br>
 运行成功后，浏览器窗口将在5分钟后自动关闭，请及时截图保存信息。也可以重新进入截图保存。
 
